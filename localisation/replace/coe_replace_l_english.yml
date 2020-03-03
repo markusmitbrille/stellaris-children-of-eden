@@ -1,0 +1,2 @@
+﻿l_english:
+  civic_tooltip_life_seeded_effects:1 "Homeworld is a §Y$pc_gaia$§! (Size: £planetsize£ §Y25§!) with several §YRare Planetary Features§!\nHabitability preference is set to §Y$trait_pc_gaia_preference$§!, making other types of planets undesireable.\nGain the §Y$trait_children_of_eden$§! trait, granting:\n  £pops£ §Y$MOD_POP_GROWTH_SPEED$§! increased by §G+50%§!\n   £happiness£ §Y$MOD_POP_CITIZEN_HAPPINESS$§! increased by §G+10%§!\n   $mod_planet_jobs_produces_mult$ increased by §G+10%§!"
