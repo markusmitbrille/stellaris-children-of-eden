@@ -6,7 +6,7 @@ trait_children_of_eden = {
 	modification = no
 	allowed_archetypes = { BIOLOGICAL }
 	modifier = {
-		pop_happiness = 0.20
+		pop_happiness = 0.10
 		planet_jobs_produces_mult = 1.00
 		pop_growth_speed = -0.30
 	}
