@@ -1,3 +1,5 @@
+@coe_habitability_none = -2.0
+
 trait_children_of_eden = {
 	cost = 0
 	potential_crossbreeding_chance = 0.01
@@ -10,6 +12,20 @@ trait_children_of_eden = {
 		planet_jobs_produces_mult = 1.00
 		planet_jobs_upkeep_mult = 0.75
 		pop_growth_speed = -0.50
+
+		# pc_gaia_habitability = 1.0
+		
+		pc_nuked_habitability = @coe_habitability_none
+		pc_desert_habitability = @coe_habitability_none
+		pc_tropical_habitability = @coe_habitability_none
+		pc_continental_habitability = @coe_habitability_none
+		pc_ocean_habitability = @coe_habitability_none
+		pc_arctic_habitability = @coe_habitability_none
+		pc_tundra_habitability = @coe_habitability_none
+		pc_arid_habitability = @coe_habitability_none
+		pc_savannah_habitability = @coe_habitability_none
+		pc_alpine_habitability = @coe_habitability_none
+
 	}
 	slave_cost = {
 		energy = 200
