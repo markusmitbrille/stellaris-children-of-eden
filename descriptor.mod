@@ -1,0 +1,16 @@
+version="1.1"
+tags={
+	"Balance"
+	"Gameplay"
+	"Civics"
+	"Traits"
+	"Origin"
+	"Life-seeded"
+	"Life Seeded"
+	"Life"
+	"Seeded"
+	"Gaia"
+}
+name="Children of Eden"
+picture="thumbnail.png"
+supported_version="2.6.*"
