@@ -13,6 +13,6 @@ tags={
 }
 name="Children of Eden"
 picture="thumbnail.png"
-supported_version="2.6.*"
-path="C:/Users/makak/Documents/Paradox Interactive/Stellaris/mod/stellaris-children-of-eden"
+supported_version="3.0.*"
+path="mod/stellaris-children-of-eden"
 remote_file_id="2044040961"
